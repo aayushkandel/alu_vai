@@ -1,6 +1,6 @@
 .logo {
     display: flex;
-    margin-top: 10rem;
+    margin-top: 6rem;
 
 
 
@@ -15,18 +15,44 @@
 
 }
 
-.from {}
+input {
+    border-radius: 20px;
+    width: 25rem;
+    height: 7vh;
+    margin-top: 1.5rem;
+    outline: none;
+    border: 1px solid rgb(168, 163, 163);
+
+}
 
 .button {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     width: 10rem;
     height: 40px;
-    background-color: white;
+    background-color: rgb(234, 229, 229);
     border-radius: 13px;
-    font-size: large;
+    font-size: medium;
+    outline: none;
+    border: none;
+
 
 }
 
 .button2 {
     margin-left: 3px;
+    width: 10rem;
+    height: 40px;
+    background-color: rgb(234, 229, 229);
+    border-radius: 13px;
+
+    border: none;
+    font-size: medium;
+
+
+}
+
+.offered {
+    margin-top: 1rem;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
 }
