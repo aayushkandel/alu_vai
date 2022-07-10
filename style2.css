@@ -1,0 +1,32 @@
+.logo {
+    display: flex;
+    margin-top: 10rem;
+
+
+
+
+}
+
+.google {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.from {}
+
+.button {
+    margin-top: 2rem;
+    width: 10rem;
+    height: 40px;
+    background-color: white;
+    border-radius: 13px;
+    font-size: large;
+
+}
+
+.button2 {
+    margin-left: 3px;
+}
