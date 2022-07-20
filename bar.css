@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+
+}
+
+.a {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80px;
+
+
+    align-items: center;
+
+}
+
+.model {
+
+    padding: 1rem;
+
+
+}
+
+.f {
+    display: flex;
+    align-items: center;
+    padding-right: 2rem;
+
+
+}
+
+.aay {
+    padding-left: 4rem;
+    font-size: 50px;
+}
