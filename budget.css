@@ -1,0 +1,65 @@
+.b {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.box {
+    margin: 5rem 10rem 5rem 10rem;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: aqua;
+
+}
+
+.income {
+    color: white;
+    background-color: green;
+
+
+}
+
+.expenses {
+    color: white;
+    background-color: red;
+}
+
+.total {
+    color: white;
+    background-color: blueviolet;
+}
+
+.add {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+.check {
+    display: flex;
+    justify-content: end;
+}
+
+.amount {}
+
+.des {
+    margin-top: 20px;
+
+
+
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+
+
+
+
+}
